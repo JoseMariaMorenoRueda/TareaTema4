@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"tema4","l":"CrearNumerosPrimos"},{"p":"tema4","l":"CribaOriginal"}];updateSearchResults();
